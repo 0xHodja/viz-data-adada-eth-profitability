@@ -1,0 +1,25 @@
+{
+  "name": "viz-data-adada-eth-profitability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/0xHodja/viz-data-adada-eth-profitability.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xHodja/viz-data-adada-eth-profitability/issues"
+  },
+  "homepage": "https://github.com/0xHodja/viz-data-adada-eth-profitability#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0"
+  }
+}
